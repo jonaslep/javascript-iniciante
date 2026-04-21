@@ -35,6 +35,22 @@ function resetTimer() {
     updateDisplay();
 }
 
+function setTimer(minutes) {
+    pauseTimer();
+    timeLeft = minutes * 60;
+    if(minutes === 25){
+        document.body.style.backgroundColor = "#2D2424";
+    }else if(minutes === 5){
+        document.body.style.backgroundColor = "#417D7A";
+    }else {
+        document.body.style.backgroundColor = "#32527B";
+    }
+    
+    updateDisplay();
+    
+
+    console.log("Modo alterado para: " + minutes + " minutos");
+}
 // Listeners
 document.getElementById('start').addEventListener('click', startTimer);
 document.getElementById('pause').addEventListener('click', pauseTimer);
