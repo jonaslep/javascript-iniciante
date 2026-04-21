@@ -30,10 +30,29 @@ body {
     gap: 10px;
 }
 
-input {
+form #name-input{
     padding: 10px;
     border: 1px solid #ccc;
     border-radius: 6px;
+    outline: none;
+}
+
+.input i{
+    cursor: pointer;
+}
+
+.input {
+    display: flex;
+    justify-content: space-between;
+
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    outline: none;
+}
+.input input{
+    border: none;
+    width: 100%;
     outline: none;
 }
 
@@ -42,6 +61,8 @@ input:focus {
 }
 
 button {
+    width: 70%;
+    align-self: center;
     margin-top: 10px;
     padding: 12px;
     border: none;
