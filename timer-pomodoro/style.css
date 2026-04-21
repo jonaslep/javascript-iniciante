@@ -1,6 +1,6 @@
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background-color: #ba4949; /* Cor clássica do Pomodoro */
+    background-color: #2D2424; /* Cor clássica do Pomodoro */
     color: white;
     display: flex;
     justify-content: center;
@@ -21,6 +21,7 @@ body {
     font-size: 6rem;
     font-weight: bold;
     margin: 20px 0;
+    color: #E0C097;
 }
 
 button {
@@ -31,10 +32,11 @@ button {
     cursor: pointer;
     font-weight: bold;
     transition: 0.3s;
+    background-color: #B85C38;
 }
 
 button:hover {
     opacity: 0.8;
 }
 
-.btn-start { background-color: white; color: #ba4949; }
+.btn-start { background-color: rgb(77, 3, 3); color: #beabab; }
