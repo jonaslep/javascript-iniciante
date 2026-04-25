@@ -21,6 +21,38 @@ Projeto de interface para praticar:
 
 ---
 
+## ⏱ Sliding Puzzle
+Jogo clássico 15 Puzzle desenvolvido em JavaScript.
+
+**Tecnologias**
+- HTML
+- CSS
+- JavaScript
+
+**Recursos**
+- Embaralhamento das peças
+- Timer
+- Record de movimentos
+- Reset do jogo
+
+---
+
+## 🧮 Calculadora
+Projeto para praticar lógica e manipulação do DOM.
+
+**Tecnologias**
+- HTML
+- CSS
+- JavaScript
+
+**Recursos**
+- Operações matemáticas
+- Botão limpar
+- Interface interativa
+- Tratamento básico de entradas
+
+---
+
 ### ⏱ Timer Pomodoro
 Aplicação baseada na técnica Pomodoro para produtividade.
 
