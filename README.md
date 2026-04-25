@@ -73,6 +73,54 @@ Funcionalidades:
 
 ---
 
+# ▶ Como executar os projetos
+
+Clone o repositório:
+
+```bash
+git clone https://github.com/jonaslep/javascript-iniciante.git
+```
+
+Entre na pasta:
+
+```bash
+cd javascript-iniciante
+```
+
+Abra o projeto desejado:
+
+```bash
+cd tela-de-login
+```
+
+ou
+
+```bash
+cd calculadora
+```
+
+ou
+
+```bash
+cd sliding-puzzle
+```
+
+ou
+
+```bash
+cd timer-pomodoro
+```
+
+Depois abra o arquivo:
+
+```bash
+index.html
+```
+
+ou execute com Live Server no VS Code.
+
+---
+
 ## 🎯 Objetivo deste repositório
 Este repositório será atualizado constantemente com novos projetos para acompanhar minha evolução como desenvolvedor.
 
