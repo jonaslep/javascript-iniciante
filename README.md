@@ -1,4 +1,4 @@
-# 🚀 javascript-iniciante
+# 🚀 javascript
 
 Repositório com projetos desenvolvidos durante meus estudos em JavaScript e desenvolvimento Front-End.
 
